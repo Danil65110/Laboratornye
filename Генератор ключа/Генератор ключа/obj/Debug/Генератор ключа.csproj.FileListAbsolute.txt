@@ -1,0 +1,11 @@
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.csproj.AssemblyReference.cache
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.csproj.SuggestedBindingRedirects.cache
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор_ключа.Form1.resources
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор_ключа.Properties.Resources.resources
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.csproj.GenerateResource.cache
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.csproj.CoreCompileInputs.cache
+H:\C#\Генератор ключа\Генератор ключа\bin\Debug\Генератор ключа.exe.config
+H:\C#\Генератор ключа\Генератор ключа\bin\Debug\Генератор ключа.exe
+H:\C#\Генератор ключа\Генератор ключа\bin\Debug\Генератор ключа.pdb
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.exe
+H:\C#\Генератор ключа\Генератор ключа\obj\Debug\Генератор ключа.pdb
